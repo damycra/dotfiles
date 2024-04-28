@@ -3,4 +3,4 @@ setopt inc_append_history        # append commands to hist file as they are issu
 
 SAVEHIST=1000000
 # to pull hist file entries into the current shell
-alias zimport_from_hist_file=‘fc -RI'
+alias zimport_from_hist_file='fc -RI'
